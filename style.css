@@ -1,0 +1,26 @@
+body{
+  background-color:#eff3c6;
+  border: solid;
+}
+h1{
+  color:green;
+  font-size:70px;
+  font-style: italic;
+}
+h2{
+  color:#d8345f;
+}
+p{
+font-style: italic;
+}
+
+hr{
+  border-style:dotted;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-color:blue;
+  border-width: 5px;
+  width: 50px;
+
+}
